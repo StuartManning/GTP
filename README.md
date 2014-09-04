@@ -1,4 +1,17 @@
-GTP
+GTP - Genomic Transfer Protocol
 ===
 
-Genomic Transfer Protocol
+An Open Standard in Genomic Data Transfers
+
+Built on the knowledge of others, defining a new standard in Genomic Data Transfers using compression for packet delivery from a to b and storage.
+
+Aims
+
+- Open & Universal
+- Lossless compression
+
+
+
+
+
+
