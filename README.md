@@ -9,6 +9,7 @@ Aims
 
 - Open & Universal
 - Lossless compression
+- Fully referenced Human Genome = 4GB (capped)
 
 
 
